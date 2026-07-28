@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img data-importer="image" align="left" height="140" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  />
+<img align="center" height="160" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  />
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">A BSIT student working on school projects focused on tech and coding. I care about learning new things and spend most of my time playing games, listening to music, and discovering new skills.</h4>
+<h3 data-importer="text" align="left">A BSIT student working on school projects focused on tech and coding. I care about learning new things and spend most of my time playing games, listening to music, and discovering new skills.</h3>
 
 ###
 
@@ -76,11 +76,9 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Iguzum&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Iguzum/Iguzum/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Iguzum/Iguzum/languages-output/languages.svg?locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=iguzum&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
@@ -92,18 +90,5 @@
 
 ###
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iguzum&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=iguzum&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=iguzum&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
-
----
-[![](https://komarev.com/ghpvc/?username=iguzum&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
