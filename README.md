@@ -70,6 +70,8 @@
 
 ###
 
+<br clear="both">****
+
 <h1 data-importer="text" align="left">📊 GitHub Stats:</h1>
 
 ###
