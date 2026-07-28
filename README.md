@@ -1,6 +1,17 @@
 <br clear="both">
 
-<img align="center" height="160" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  />
+
+<div align="right">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=2500&pause=1200&color=00F5FF&width=700&height=150&lines=Hi%2C+I'm+Iguzum+%F0%9F%91%8B;Building+ideas+into+code."
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
 
 ###
 
@@ -76,8 +87,8 @@
 
 <br clear="both">
 
+![](https://streak-stats.demolab.com/?user=iguzum&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=iguzum&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
