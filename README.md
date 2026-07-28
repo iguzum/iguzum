@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">****
-
 <h1 data-importer="text" align="left">📊 GitHub Stats:</h1>
 
 ###
@@ -83,6 +81,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
+
+<h1 data-importer="text" align="left">👾 Activity Graph:</h1>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iguzum/Iguzum/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
