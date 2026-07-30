@@ -89,7 +89,7 @@
 
 ![](https://streak-stats.demolab.com/?user=iguzum&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=normal)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iguzum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ###
 
